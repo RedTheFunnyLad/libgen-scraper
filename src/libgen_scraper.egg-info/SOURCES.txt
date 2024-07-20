@@ -1,0 +1,14 @@
+LICENSE
+README.md
+pyproject.toml
+src/libgen_scraper/__init__.py
+src/libgen_scraper/articles.py
+src/libgen_scraper/download.py
+src/libgen_scraper/fiction.py
+src/libgen_scraper/non_fiction.py
+src/libgen_scraper/search.py
+src/libgen_scraper.egg-info/PKG-INFO
+src/libgen_scraper.egg-info/SOURCES.txt
+src/libgen_scraper.egg-info/dependency_links.txt
+src/libgen_scraper.egg-info/requires.txt
+src/libgen_scraper.egg-info/top_level.txt
